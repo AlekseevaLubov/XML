@@ -1,7 +1,8 @@
-<xml>
+<bug_report>
   <Title>The buy button does not work</Title>
   <Priority>High</Priority>
   <Severity>Blocker</Severity>
   <Steps to reproduce>1) open the catalog. 2)put the product in the basket. 3) go to the basket. 4) click "order"</Steps to reproduce>
   <Expected result>It was made the transition to the order payment page</Expected result>
   <Actual result>the button "order" doesn't work</Actual result>
+</bug_report>

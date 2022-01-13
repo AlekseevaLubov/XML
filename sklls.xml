@@ -1,4 +1,4 @@
-<xml>
+<skills>
 	<1>Basic_theory</1>
 	<2>HTTP</2>
 	<3>HTTP</3>
@@ -10,3 +10,4 @@
 	<9>bash_scripting</9>
 	<10>Charles_Fiddler</10>
 	<11>others</11>
+</skills>
